@@ -10,11 +10,17 @@ The codebase is designed to support experimentation with different backbones, au
 ## 📂 Repository Structure  
 /
 ├── data/ # Dataset files (raw images, annotations)
+
 ├── classification/ # Scripts & notebooks for the classification task
+
 ├── detection/ # Scripts & notebooks for the detection task
+
 ├── models/ # Saved model checkpoints
+
 ├── utils/ # Utility modules (data loading, transforms, metrics)
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # This file
 
 
