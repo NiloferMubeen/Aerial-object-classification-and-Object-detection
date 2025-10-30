@@ -18,15 +18,17 @@ The codebase is designed to support experimentation with different backbones, au
 └── README.md # This file
 
 
-🔧 Key Features
+## 🔧 Key Features
 
-Dual-task support: classification + detection.
+* Dual-task support: classification + detection.
 
-Modular scripts and pipelines for flexibility (swap backbones, augmentations, datasets).
+* Modular scripts and pipelines for flexibility (swap backbones, augmentations, datasets).
 
-Visualisation utilities (confusion matrices, bounding-box overlay) for qualitative assessment.
+* Visualisation utilities (confusion matrices, bounding-box overlay) for qualitative assessment.
 
-Focus on aerial imagery: designed to handle the unique challenges of overhead views.
+* Focus on aerial imagery: designed to handle the unique challenges of overhead views.
+
+## Demo
 
 
 
